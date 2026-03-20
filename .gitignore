@@ -1,0 +1,10 @@
+personal/
+data/
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.h5
+*.nwb
+*.h5ad
+.DS_Store
